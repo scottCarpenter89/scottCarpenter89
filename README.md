@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 , I'm Scott Carpenter
 
-<!--
-**scottCarpenter89/scottCarpenter89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my Codeup capstone (https://github.com/Clear-to-Close/CleartoClose)
+- 🌱 I’m currently learning TailWind CSS
+- 💬 Ask me about my military history 
+- 📫 How to reach me: carpenter.scott22@gmail.com
+- ⚡ Fun fact: I practice Brazilian Jiu Jitsu, "oss!"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; justify-content: space-evenly">
+<img style="height: 125px; width: calc(100% / 3)" src="https://github-readme-stats.vercel.app/api/top-langs?username=scottCarpenter89&show_icons=true&locale=en&layout=compact" alt="scottCarpenter89">
+
+<img style="height: 125px; width: calc(100% / 3)" src="https://github-readme-stats.vercel.app/api?username=scottCarpenter89&show_icons=true&locale=en" alt="scottCarpenter89" >
+<img style="height: 125px; width: calc(100% / 3)" src="https://github-readme-streak-stats.herokuapp.com/?user=scottCarpenter89&" alt="scottCarpenter89">
+  </div>
+  
+  
+
+
+
