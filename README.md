@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my Codeup capstone (https://github.com/Clear-to-Close/CleartoClose)
 - 🌱 I’m currently learning TailWind CSS
-- 💬 Ask me about my military history 
+- 📚 I'm currently reading Clean Code by Uncle Bob
 - 📫 How to reach me: carpenter.scott22@gmail.com
 - ⚡ Fun fact: I practice Brazilian Jiu Jitsu, "oss!"
 
