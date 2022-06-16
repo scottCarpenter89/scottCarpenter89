@@ -1,8 +1,9 @@
 ### Hi there 👋 , I'm Scott Carpenter
 
 
-- 🔭 I’m currently working on my Codeup capstone (https://github.com/Clear-to-Close/CleartoClose)
-- 🌱 I’m currently learning TailWind CSS and Salesforces Certified Administration
+- 🔭 I’m currently looking for a role as a Software Developer/Engineer
+- 🌱 I’m currently learning AWS Cloud Practitioner Essentials
+- 💻 I'm leveling up my skills in Java
 - 📚 I'm currently reading Clean Code by Uncle Bob
 - 📫 How to reach me: carpenter.scott22@gmail.com
 - ⚡ Fun fact: I practice Brazilian Jiu Jitsu, "oss!"
