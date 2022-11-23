@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Scott Carpenter
 
 
-- 🔭 I’m currently looking for a role as a Software Developer/Engineer
+- 🔭 I’m currently working as a SDE Apprentice at AWS
 - 🌱 I’m currently learning AWS Cloud Practitioner Essentials
 - 💻 I'm leveling up my skills in Java and React
 - 📚 I'm currently reading Clean Code by Uncle Bob
